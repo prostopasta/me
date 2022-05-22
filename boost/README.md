@@ -9,7 +9,7 @@
 * The Missing Semester of MIT CS - https://missing.csail.mit.edu/
 
 ---
-## Week One
+## Week 1
 
 Focus on knowledge management (more than just note taking) and setting up first Linux virtual machine.
 
@@ -44,3 +44,27 @@ Focus on knowledge management (more than just note taking) and setting up first 
 6. Boot Ubuntu Server and Look Around
 
 ---
+## Week 2
+
+Week 2 focuses on UNIX/Linux origins and the terminal, command-line  interface and basic file system navigation. You should be comfortable  installing and removing and reinstalling Linux Ubuntu Server VMs and any `apt` packages before next week.  
+
+* Mentors help you know what to learn
+* Mentors help you know where to learn it (curate resources)
+* Mentor help you when you get stuck
+* What is a “shell” and why do I care?
+* What is the difference between “terminal”, “CLI”, and “shell”?
+* What is a REPL? (Read, Evaluate, Print, Loop)
+* Install and configure terminal software (MS Terminal, iTerm2)
+* What is UNIX and Linux?
+* What is GNU? Who invented Linux?
+* Basic system update and package management and installation
+* When to use `apt` vs `apt-get`?
+* What is a “package”?
+* How do I install software?
+* Really simple and essential shell commands
+* What do the character’s in the prompt mean?
+* What is an “inode”? Why everything is “just a file”?
+* What are UNIX/Linux permissions?
+* What does . and .. mean?
+* How do I know that apt packages are safe?
+* What is a shell “history”?
